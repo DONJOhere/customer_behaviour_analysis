@@ -171,10 +171,4 @@ Customer-Shopping-Behavior-Analysis/
     └── README.md
 
 
-**How to Run**
 
-1. Clone the repository.
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd Customer-Shopping-Behavior-Analysis
